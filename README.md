@@ -21,4 +21,8 @@ Seremos responsáveis por criar um modelo de predição de fraudes para uma empr
 | Google Colab | [Link](https://colab.research.google.com/) |
 | Azure Machine Learning | [Documentação](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops) |
 
+Para iniciar o projeto será necessário uma conta no Google Colab e um grupo de recursos com Azure Machine Learning previamente configurados, além do dataset o qual iremos trabalhar, disponibilizado no Kaggle. Os recursos como notebook, dataset, e fragmento também estão disponibilizados neste repositório.
+
+
+
   

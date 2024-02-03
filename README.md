@@ -15,6 +15,7 @@ Seremos responsáveis por criar um modelo de predição de fraudes para uma empr
 
 # Preparando o ambiente
 
+| Ferramenta | Link |
 | --- | --- |
 | Dataset Kaggle |[Link para download](https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example) |
 | Google Colab | [Link](https://colab.research.google.com/) |

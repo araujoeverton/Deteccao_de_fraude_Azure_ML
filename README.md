@@ -12,4 +12,12 @@ Seremos responsáveis por criar um modelo de predição de fraudes para uma empr
 - Dataset do Kaggle
 - Linguagem Python para tratamento dos dados
 - Azure Machine Learning
+
+# Preparando o ambiente
+
+| --- | --- |
+| Dataset Kaggle |[Link para download](https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example) |
+| Google Colab | [Link](https://colab.research.google.com/) |
+| Azure Machine Learning | [Documentação](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops) |
+
   
